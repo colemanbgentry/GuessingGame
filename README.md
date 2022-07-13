@@ -1,30 +1,28 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wanted to make another game with a new programming language that was simple and easy for me to practice with. Hopefully later I will be able to expand upon this idea and make it even a bigger project. 
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
+To think of a number and the computer slowly but surely will figure it out with a bit of computer power. 
 
-{Describe your purpose for writing this software.}
+I wanted to create another game with the Java programming language, because another fantastic game was also created with this language. Hopefully so of you know which game I am talking about. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+After everything, here is a link to the video of me going against the computer.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Computer's Guess](https://youtu.be/MA0TYGIbzu4)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Java programming language with the Visual Studio text editor.
 
-{Describe the programming language that you used and any libraries.}
+import java.io.Console - I used this to allow the player to interact with the computer through the console. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [w3Schools](https://www.w3schools.com/java/default.asp)
+* [Oracle](https://docs.oracle.com/en/java/javase/index.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Something I would love to have on a bigger and better scale, to add more functionality, and more features
+* To add a memory system
+* To add a numbers between system
